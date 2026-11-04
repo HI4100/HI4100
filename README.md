@@ -1,152 +1,166 @@
-# Hi there, I'm Humza Warsi 👋
+# ✨ Hi, I'm Humza Warsi 👋
 
-### 🚀 IT Student | Software Development | QA & Testing | Data Analytics | AI Enthusiast
+### 🚀 IT Student | Software & Data | QA | AI Enthusiast
 
-I'm an **Information Technology student from Mumbai, India** with hands-on project experience across **software development, quality assurance, databases, data analytics and business intelligence**.
+Welcome to my GitHub! I'm an **Information Technology student from Mumbai, India**, building practical projects and developing skills across **software development, data analytics, quality assurance, databases and AI-powered workflows**.
 
-I enjoy building practical applications, understanding how systems work, testing software thoroughly, and using data to turn information into useful insights. I'm also highly interested in the rapidly evolving world of **Artificial Intelligence and modern software technologies**.
-
-🎯 **Currently seeking internship opportunities** where I can contribute, gain real-world experience, and grow alongside an experienced technology team.
+🎯 **Currently seeking internship opportunities** where I can learn from real-world teams, contribute meaningfully, and grow into a strong technology professional.
 
 ---
 
-## 🧠 Areas of Interest
+## ✨ What I'm Interested In
 
-🤖 **Artificial Intelligence & Generative AI** · 💻 **Software Development** · 🧪 **Quality Assurance** · 📊 **Data Analytics & Business Intelligence** · 🔐 **Cybersecurity & Network Security**
+🤖 AI & Generative AI • 💻 Software Development • 📊 Data & Analytics • 🧪 Quality Assurance • 🗄️ Databases • 🔐 Cybersecurity
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Skills & Tools
 
 ### 💻 Programming & Development
-**Python** · **Java** · **JavaScript** · **HTML5** · **CSS3**
+**Python** • **Java** • **JavaScript** • **HTML5** • **CSS3** • **OOP Fundamentals**
 
-### 🗄️ Data & Databases
-**SQL** · **SQLite** · **pandas** · **Data Analysis** · **Data Cleaning** · **Data Transformation**
+### 🗄️ Databases & Data
+**SQL** • **DBMS** • **SQLite** • **Data Cleaning** • **Data Analysis** • **Data Transformation**
 
-### 📊 Business Intelligence & Analytics
-**Power BI** · **Power Query** · **DAX** · **Data Visualization** · **Dashboard Development** · **KPI Analysis**
+### 📊 Analytics & Business Intelligence
+**Microsoft Excel** • **Power BI** • **Power Query** • **DAX** • **Data Visualization** • **Dashboard Development** • **KPI Analysis**
 
-### 🧪 Software Quality Assurance
-**Manual Testing** · **Functional Testing** · **Regression Testing** · **Negative Testing** · **Test Case Design** · **Defect Reporting** · **API Testing** · **Postman**
+### 🧪 Software Testing & QA
+**Manual Testing** • **Functional Testing** • **Regression Testing** • **Negative Testing** • **Test Case Design** • **Bug Reporting** • **API Testing** • **Postman**
 
-### 🛠️ Tools & Platforms
-**Git** · **GitHub** · **VS Code** · **Power BI Desktop** · **Supabase**
+### 🪟 Microsoft & Productivity Tools
+**Microsoft Word** • **Microsoft Excel** • **Microsoft PowerPoint** • **Microsoft Outlook** • **OneDrive** • **Microsoft Teams**
 
-### 🤖 AI & Modern Technology
-**Generative AI** · **AI Tools & Workflows** · **Prompt Engineering Fundamentals** · **AI-Assisted Development**
+### 🛠️ Developer Tools
+**Git** • **GitHub** • **VS Code** • **Power BI Desktop**
+
+### 🤖 AI & Digital Skills
+**Generative AI** • **AI Tools & Workflows** • **Prompt Engineering** • **AI-Assisted Development** • **Content Writing**
+
+### 🌟 Professional Strengths
+**Attention to Detail** ✨ • **Problem Solving** • **Research** • **Communication** • **Adaptability** • **Continuous Learning**
 
 ---
 
-## 🌱 Expanding My Technology Stack
+# 🌱 Expanding My Technology Stack
 
-I continuously invest time in learning technologies used across modern software teams, including:
+Technologies I'm actively working toward as I continue my learning journey:
 
-**REST APIs** · **Docker & Containerization** · **Cloud Computing** · **Test Automation** · **Advanced SQL** · **Modern Web Development** · **AI/ML Fundamentals** · **Cybersecurity**
+**NumPy** • **pandas** • **Statistics for Data Analysis** • **Python Automation** • **REST APIs** • **AI APIs** • **Docker & Containerization** • **Cloud Computing Fundamentals** • **Test Automation** • **Data Structures & Algorithms** • **C Programming** • **C++** • **Advanced Java & OOP** • **AI/ML Fundamentals** • **Cybersecurity Fundamentals**
+
+✨ Always learning. Always building.
 
 ---
 
 # 🌟 Featured Projects
 
 ## 📊 ATELIER | Retail Sales & Profit Analytics
+**End-to-End Data Analytics & Business Intelligence Project**
 
-**End-to-End Business Intelligence & Data Analytics Project**
+Built an interactive analytics solution that transforms retail data into meaningful business insights.
 
-Built an interactive analytics solution using **Power BI, Power Query, DAX, Python, pandas and SQL** to transform retail transaction data into meaningful business insights.
-
-**Highlights**
-- Interactive two-page Power BI dashboard
-- Sales, orders, product and regional analysis
+✨ **Highlights**
+- Interactive Power BI dashboards
+- Sales, profit, product and regional analysis
 - KPI design and business reporting
-- Python-based data validation
-- SQL analytical queries
+- Power Query transformations and DAX measures
+- Python and SQL-based analysis
 - Structured project documentation
 
-🔗 **[View Repository →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)**
+🔗 **[Explore the project →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)**
 
 ---
 
 ## 🧪 ATELIER | QA Testing Portfolio
+**Software Quality Assurance Project**
 
-**Software Quality Assurance & Testing Project**
+A structured portfolio demonstrating practical testing workflows.
 
-A structured QA portfolio demonstrating practical software testing workflows and documentation.
-
-**Highlights**
-- Manual test cases and test scenarios
+✨ **Highlights**
+- Manual test cases and scenarios
 - Functional and negative testing
-- Defect identification and reporting
+- Defect reporting
 - API testing with Postman
-- Structured testing documentation
+- Clear QA documentation
 
-🔗 **[View Repository →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)**
+🔗 **[Explore the project →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)**
 
 ---
 
 ## 🧑‍🎓 ATELIER | Student Management System
+**Application Development Project**
 
-**Python & SQLite Application**
+A database-focused project demonstrating application logic and data management.
 
-A database-driven application demonstrating core software development concepts.
-
-**Highlights**
+✨ **Highlights**
 - CRUD operations
-- SQLite database integration
-- Application logic and validation
-- Structured testing
+- Database integration
+- Input validation
+- Structured application workflows
 
-🔗 **[View Repository →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)**
+🔗 **[Explore the project →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)**
 
 ---
 
 ## 💰 ATELIER | Expense Tracker
+**Practical Application Project**
 
-**Python Application**
+An application focused on organized data handling and useful real-world workflows.
 
-A practical application focused on organized data handling and core application functionality.
-
-**Highlights**
-- Expense tracking workflows
+✨ **Highlights**
+- Expense tracking
 - Data management
 - Application logic
 - Testing and validation
 
-🔗 **[View Repository →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)**
+🔗 **[Explore the project →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)**
 
 ---
 
-## ✨ ATELIER | Personal Life Management System
-
+## 🌐 ATELIER | Personal Life Management System
 **Modern Web Application**
 
 A project exploring modern frontend development and backend services.
 
-**Tech:** **React** · **Vite** · **Supabase**
+**Tech:** React • Vite • Supabase
 
-🔗 **[View Repository →](https://github.com/HI4100/FINALE-PROJECT)**
+🔗 **[Explore the project →](https://github.com/HI4100/FINALE-PROJECT)**
 
 ---
 
-## 🎯 Open To Opportunities In
+# 🎯 Open to Internship Opportunities
 
-💻 **Software Development Intern**  
-🐍 **Python Developer Intern**  
-🧪 **QA / Software Testing Intern**  
+I'm especially interested in opportunities with strong long-term career growth and valuable real-world experience:
+
+🚀 **Software Development Intern**  
+🤖 **AI / Automation Intern**  
 📊 **Data Analyst / Business Intelligence Intern**  
-🤖 **AI & Automation Intern**  
+🧪 **QA / Software Testing Intern**  
+🐍 **Python Developer Intern**  
 🗄️ **SQL / Database Intern**  
-🔐 **IT / Cybersecurity Intern**
+🔐 **Cybersecurity / IT Intern**
 
 ---
 
-## 💡 What I Bring
+# 💎 What I Bring
 
-⚡ **Strong willingness to learn and adapt**  
-🛠️ **Hands-on project experience across multiple technology areas**  
-🔍 **Attention to detail and a testing mindset**  
-🧩 **Problem-solving approach**  
-📈 **Continuous learning mindset**  
-🤝 **Openness to feedback and teamwork**
+✨ Hands-on project experience  
+🔍 Strong attention to detail  
+🧩 Problem-solving mindset  
+🤖 Comfortable working with modern AI tools  
+📝 Content writing and clear documentation skills  
+📊 Analytical thinking  
+🧪 Quality-focused approach  
+🚀 Fast learner with genuine curiosity  
+🤝 Open to feedback and teamwork  
+
+---
+
+## 📚 My Learning Roadmap
+
+I believe in learning skills in a structured order: strengthening **computer fundamentals, Microsoft tools, programming, databases, SQL, Git/GitHub, testing and APIs first**, then expanding deeper into **automation, data analytics, web development, cloud technologies, AI and advanced computer science concepts**.
+
+🎯 **The goal isn't to collect skill names — it's to build real understanding and prove it through projects.**
 
 ---
 
@@ -157,6 +171,6 @@ A project exploring modern frontend development and backend services.
 
 ---
 
-### 🚀 Building practical projects. Learning continuously. Ready for the next challenge.
+### ✨ Building practical projects • Learning continuously • Ready for the next challenge 🚀
 
-*Feel free to explore my repositories and connect with me.*
+*Feel free to explore my repositories and connect with me!*
