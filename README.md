@@ -1,88 +1,163 @@
 # Hi there, I'm Humza Warsi 👋
 
-### IT Student | Aspiring Software Developer | QA & Testing | Data Analytics
+### 🚀 IT Student | Software & QA Enthusiast | Data Analytics | Exploring AI
 
-I'm an Information Technology student from Mumbai, India, building practical projects across **software development, software testing, databases, data analytics, and business intelligence**.
+I'm an **Information Technology student from Mumbai, India** building practical, portfolio-focused projects across **Software Development, Quality Assurance, Data Analytics, Databases, Business Intelligence, and emerging AI technologies**.
 
-My goal is to gain hands-on industry experience through an internship while continuously building projects that solve practical problems.
+I enjoy turning ideas into working projects, testing how software behaves, analyzing data for insights, and continuously learning the technologies used in modern software teams.
+
+🎯 **Current goal:** Secure an internship where I can contribute, learn from real-world development teams, and grow into a versatile technology professional.
 
 ---
 
-## 🚀 About Me
+## 🧠 What I'm Exploring
 
-- 🎓 **Information Technology Student**
-- 💻 Interested in **Software Development & Python**
-- 🧪 Exploring **QA, Manual Testing & API Testing**
-- 📊 Building skills in **Data Analytics & Power BI**
-- 🗄️ Working with **SQL & Databases**
-- 🌱 Currently focused on strengthening my technical portfolio and preparing for internship opportunities
+- 🤖 **Artificial Intelligence & Generative AI**
+- 💬 **AI tools, prompting & practical AI workflows**
+- 🐍 Python automation and data analysis
+- 🧪 Software Quality Assurance and testing
+- 📊 Data Analytics and Business Intelligence
+- 🌐 Modern web technologies
+- 🔐 Network & Information Security fundamentals
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming & Development
-`Python` • `Java` • `JavaScript` • `HTML` • `CSS`
+### 💻 Programming & Development
+`Python` • `Java` • `JavaScript` • `HTML5` • `CSS3`
 
-### Data & Databases
-`SQL` • `SQLite` • `pandas` • `Power BI` • `DAX` • `Power Query`
+### 🗄️ Data & Databases
+`SQL` • `SQLite` • `pandas` • `Data Analysis` • `Power BI` • `DAX` • `Power Query`
 
-### Testing
-`Manual Testing` • `Test Cases` • `Bug Reporting` • `API Testing` • `Postman`
+### 🧪 Software Testing
+`Manual Testing` • `Test Case Design` • `Defect Reporting` • `API Testing` • `Postman` • `Regression Testing` • `Functional Testing`
 
-### Tools & Technologies
+### 📊 Business Intelligence
+`Power BI Desktop` • `Data Cleaning` • `Data Transformation` • `KPI Design` • `Dashboard Development` • `Data Visualization`
+
+### 🛠️ Developer Tools
 `Git` • `GitHub` • `VS Code` • `Power BI Desktop` • `Supabase`
 
 ---
 
-## 🌟 Featured Projects
+## 🌱 Currently Learning & Building
 
-### 📊 ATELIER | Retail Sales & Profit Analytics
-An end-to-end Business Intelligence project using **Power BI, Power Query, DAX, Python and SQL** to analyze synthetic retail sales data through an interactive two-page dashboard.
+I'm actively expanding my skill set toward technologies commonly used in modern software and data teams:
 
-🔗 [View Repository](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)
+- 🤖 **AI & Generative AI fundamentals**
+- 🔌 **REST APIs and API integration**
+- 🐳 **Docker and containerization fundamentals**
+- ☁️ **Cloud computing fundamentals**
+- 🧪 **Test automation concepts**
+- 📈 **Advanced SQL and data analysis**
+- 🌐 **Modern web development**
+- 🔐 **Cybersecurity and network security concepts**
 
----
-
-### 🧪 ATELIER | QA Testing Portfolio
-A software testing portfolio featuring structured test cases, defect reporting, testing documentation and API testing work.
-
-🔗 [View Repository](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)
-
----
-
-### 🧑‍🎓 ATELIER | Student Management System
-A Python and SQLite application demonstrating CRUD operations, database management and testing.
-
-🔗 [View Repository](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)
+> I believe the best skill is the ability to **learn quickly, build consistently, and adapt to new technology**.
 
 ---
 
-### 💰 ATELIER | Expense Tracker
-A Python-based application focused on expense tracking, data handling and application testing.
+# 🌟 Featured Projects
 
-🔗 [View Repository](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)
+## 📊 ATELIER | Retail Sales & Profit Analytics
 
----
+An end-to-end **Business Intelligence and Data Analytics project** using **Power BI, Power Query, DAX, Python, pandas and SQL**.
 
-### ✨ ATELIER | Personal Life Management System
-A web application project built using modern frontend technologies and Supabase.
+**Highlights:**
+- Interactive two-page Power BI dashboard
+- Sales, orders, profit and regional analysis
+- Data validation using Python
+- SQL analytical queries
+- KPI design and business insights
 
-🔗 [View Repository](https://github.com/HI4100/FINALE-PROJECT)
-
----
-
-## 🎯 Current Focus
-
-I'm currently preparing for **Software Development, QA/Testing, Data Analytics and IT internship opportunities** while continuing to improve my skills through hands-on projects.
+🔗 **[View Repository →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)**
 
 ---
 
-## 🤝 Connect With Me
+## 🧪 ATELIER | QA Testing Portfolio
 
-- 💼 LinkedIn: [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)
-- 🐙 GitHub: [@HI4100](https://github.com/HI4100)
+A structured **Software Quality Assurance portfolio** demonstrating practical testing workflows.
+
+**Highlights:**
+- Manual test cases and checklists
+- Functional and negative testing
+- Defect identification and reporting
+- API testing concepts
+- Structured QA documentation
+
+🔗 **[View Repository →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)**
 
 ---
 
-⭐ **Feel free to explore my repositories and projects!**
+## 🧑‍🎓 ATELIER | Student Management System
+
+A **Python and SQLite application** demonstrating core software development concepts.
+
+**Highlights:**
+- CRUD operations
+- Database integration
+- Application logic
+- Testing and validation
+
+🔗 **[View Repository →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)**
+
+---
+
+## 💰 ATELIER | Expense Tracker
+
+A Python-based application focused on structured data handling and application functionality.
+
+**Highlights:**
+- Expense tracking workflows
+- Data handling
+- Application logic
+- Testing
+
+🔗 **[View Repository →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)**
+
+---
+
+## ✨ ATELIER | Personal Life Management System
+
+A modern web application project exploring frontend development and backend services.
+
+**Tech:** `React` • `Vite` • `Supabase`
+
+🔗 **[View Repository →](https://github.com/HI4100/FINALE-PROJECT)**
+
+---
+
+## 🎯 Career Interests
+
+I'm currently open to learning and internship opportunities in:
+
+> 💻 **Software Development** · 🐍 **Python Development** · 🧪 **QA & Software Testing** · 📊 **Data Analytics** · 📈 **Business Intelligence** · 🤖 **AI / Automation** · 🗄️ **SQL & Databases** · 🔐 **IT & Cybersecurity**
+
+---
+
+## 📚 My Learning Mindset
+
+Technology changes quickly—and I don't expect to know everything.
+
+What I bring is:
+
+- ⚡ Curiosity and willingness to learn
+- 🧩 Problem-solving mindset
+- 🛠️ Hands-on project experience
+- 🔍 Attention to detail through testing
+- 📈 Ability to learn new tools and technologies
+- 🤝 Openness to feedback and teamwork
+
+---
+
+## 🤝 Let's Connect
+
+💼 **LinkedIn:** [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)  
+🐙 **GitHub:** [@HI4100](https://github.com/HI4100)
+
+---
+
+### ⭐ Building. Learning. Improving. One project at a time.
+
+*Feel free to explore my repositories and follow my journey as I continue building and learning in technology.* 🚀
