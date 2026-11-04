@@ -1,99 +1,97 @@
 # ✨ Hi, I'm Humza Warsi 👋
 
-### 🚀 IT Student | QA & Software Testing | Data & Analytics | AI-Assisted Workflows
+### 🧪 IT Student | QA & Software Testing | Python & Automation | Data & BI
 
-I'm an **Information Technology student from Mumbai, India** building practical projects across **software testing, Python, SQL, data analytics, databases and AI-powered workflows**.
+I'm an **Information Technology student from Mumbai, India**, building practical projects in software quality assurance, Python applications, SQL, data analysis and business intelligence.
 
-🎯 My current career focus is **QA / Software Testing**, while continuing to strengthen **Python, automation, SQL and data skills** for long-term growth.
+I'm focused on starting my career in **QA / Software Testing**, strengthening my Python and automation skills, and building a solid technical foundation for long-term growth in technology.
 
----
-
-## 🎯 Open to Opportunities
-
-### 🧪 **QA / Software Testing Intern** — Primary Focus ✨
-Also open to:
-- 🐍 **Python / Automation Intern**
-- 📊 **Data Analyst / BI Intern**
-- 💻 **IT / Software Support Intern**
-
-I enjoy structured problem-solving, testing real workflows, finding edge cases, documenting clearly and improving the quality of a product.
+🎯 **Seeking internship opportunities** where I can contribute carefully, learn from experienced teams and help deliver reliable software.
 
 ---
 
-# 🛠️ Skills & Tools
+## 🎯 Career Focus
 
-### 🧪 QA & Testing
-**Manual Testing** • **Functional Testing** • **Regression Testing** • **Negative Testing** • **Exploratory Testing** • **Test Case Design** • **Bug Reporting** • **API Testing** • **Postman**
+**Primary:** 🧪 QA / Software Testing Intern  
+**Also interested in:** 🐍 Python / Automation Intern · 📊 Data Analyst / BI Intern · 💻 IT Support / Technical Intern
 
-### 🐍 Programming & Development
-**Python** • **Java** • **SQL** • **DBMS** • **SQLite** • **OOP Fundamentals** • **HTML/CSS/JavaScript Fundamentals**
+My strongest fit today is an entry-level QA role, where my testing portfolio, attention to detail, documentation and structured problem-solving are directly relevant. Python automation and data/BI are complementary skills I am developing through projects.
 
-### 📊 Data & Analytics
-**Microsoft Excel** • **Power BI** • **Power Query** • **DAX** • **Data Cleaning** • **Data Analysis** • **Data Visualization** • **KPI Analysis**
+---
 
-### 🪟 Microsoft & Productivity Tools
-**Microsoft Word** • **Excel** • **PowerPoint** • **Outlook** • **OneDrive** • **Microsoft Teams**
+## 🛠️ Skills & Tools
 
-### 🛠️ Developer Tools
-**Git** • **GitHub** • **VS Code** • **Power BI Desktop** • **GitHub Actions**
+### 🧪 Quality Assurance & Software Testing
+**Manual Testing** · **Functional Testing** · **Regression Testing** · **Exploratory Testing** · **Negative Testing** · **Test Case Design** · **Test Scenarios** · **Bug / Defect Reporting** · **Test Execution & Documentation** · **API Testing Fundamentals** · **Postman**
 
-### 🤖 AI & Digital Skills
-**Generative AI** • **AI Tools & Workflows** • **Prompt Engineering** • **AI-Assisted Development** • **AI Research Support** • **Content Writing**
+### 🐍 Programming & Software Fundamentals
+**Python** · **Java** · **C** · **C++** · **JavaScript** · **HTML5** · **CSS3** · **Object-Oriented Programming Fundamentals** · **Problem Solving**
+
+### 🗄️ Databases & Querying
+**SQL** · **DBMS** · **SQLite** · **CRUD Operations** · **Relational Database Fundamentals** · **Data Validation**
+
+### 📊 Data Analytics & Business Intelligence
+**Microsoft Excel** · **Power BI** · **Power Query** · **DAX** · **Data Cleaning** · **Data Preparation** · **Data Analysis** · **Data Visualization** · **Dashboard Design** · **KPI Reporting** · **Basic Statistics**
+
+### 🪟 Microsoft 365 & Productivity
+**Microsoft Word** · **Microsoft Excel** · **Microsoft PowerPoint** · **Microsoft Outlook** · **OneDrive** · **Microsoft Teams**
+
+### 🛠️ Developer & Collaboration Tools
+**Git** · **GitHub** · **VS Code** · **GitHub Actions** · **Power BI Desktop** · **Supabase**
+
+### 🤖 AI, Research & Digital Work
+**Generative AI Tools** · **AI-Assisted Workflows** · **Prompt Writing & Prompt Engineering** · **AI-Assisted Research** · **Content Writing** · **Technical Documentation**
 
 ### ✨ Professional Strengths
-**Attention to Detail** • **Problem Solving** • **Research** • **Documentation** • **Communication** • **Analytical Thinking** • **Adaptability** • **Continuous Learning**
+**Attention to Detail** · **Analytical Thinking** · **Logical Reasoning** · **Problem Solving** · **Research** · **Clear Documentation** · **Written Communication** · **Adaptability** · **Time Management** · **Learning Agility** · **Team Collaboration**
 
 ---
 
-# 🌱 Growing Next
+## 🌟 Featured Projects
 
-I'm actively strengthening:
+### 🧪 ATELIER 41 | QA Testing Portfolio
+A practical QA portfolio built around manual testing of a public demo application, structured test cases, execution records, defect documentation and API-testing practice materials.
 
-**Python Automation** • **Test Automation** • **REST APIs** • **NumPy & pandas** • **Statistics** • **Cloud Fundamentals** • **Docker** • **AI/ML Fundamentals** • **Cybersecurity Fundamentals** • **Data Structures & Algorithms**
+**Demonstrates:** Test design · Functional and exploratory testing · Defect reporting · Test documentation · Postman collection preparation
 
-✨ The goal is simple: **learn properly, then prove it through real projects.**
+🔗 [Explore the QA portfolio →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)
 
----
+### 🐍 ATELIER 41 | Expense Tracker
+A Python command-line application for recording expenses, managing category budgets, searching transactions and exporting data, with automated unit tests.
 
-# 🌟 Featured Projects
+**Demonstrates:** Python · CSV/JSON · Validation · Application logic · Unit testing
 
-## 📊 ATELIER | Retail Sales & Profit Analytics
-Interactive **Power BI + Python + SQL** analytics project exploring sales, profit, products, regions, KPIs and trends.
+🔗 [Explore the Expense Tracker →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)
 
-🔗 **[Explore the project →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)**
+### 🧑‍🎓 ATELIER 41 | Student Management System
+A Python and SQLite application for maintaining student records, with CRUD operations, validation, SQL queries and automated tests.
 
-## 🧪 ATELIER | QA Testing Portfolio
-Hands-on portfolio covering **manual testing, functional testing, exploratory testing, bug reporting and API testing**.
+**Demonstrates:** Python · SQLite · SQL · Database design fundamentals · Unit testing
 
-🔗 **[Explore the project →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)**
+🔗 [Explore the Student Management System →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)
 
-## 🧑‍🎓 ATELIER | Student Management System
-Python + SQLite application demonstrating **CRUD operations, validation, SQL and automated testing**.
+### 📊 ATELIER 41 | Retail Sales & Profit Analytics
+A two-page Power BI dashboard supported by Python analysis and SQL queries, exploring synthetic retail sales, regional performance, products, categories, payments and illustrative profit.
 
-🔗 **[Explore the project →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)**
+**Demonstrates:** Power BI · Power Query · DAX · Python · pandas · SQL · Data visualization
 
-## 💰 ATELIER | Expense Tracker
-Python application for **expense management, budgets, search, validation and automated tests**.
-
-🔗 **[Explore the project →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)**
+🔗 [Explore Retail Sales Analytics →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)
 
 ---
 
-# 💎 The ATELIER 41 Signature
+## 💎 The ATELIER 41 Standard
 
-Every **ATELIER 41** project follows the same personal standard:
+> **Build it clearly. Test it carefully. Document it honestly. Improve it continuously.**
 
-> **✨ Build it clearly. Test it carefully. Document it honestly. Improve it continuously.**
-
-The **ATELIER** name and **41** identifier form the signature across my portfolio — a consistent way to connect projects built as part of my learning journey and practical technology development.
+ATELIER 41 is the consistent identity across my portfolio projects. Each project is an opportunity to practise practical skills, explain the work clearly and keep improving the result.
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect With Me
 
-💼 **LinkedIn:** [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)  
-🐙 **GitHub:** [@HI4100](https://github.com/HI4100)
+- **LinkedIn:** [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)
+- **GitHub:** [@HI4100](https://github.com/HI4100)
 
 ---
 
-### ✨ Build. Test. Learn. Improve. — ATELIER 41 🚀
+### ✨ Reliable work. Thoughtful testing. Continuous improvement. 🚀
