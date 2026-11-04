@@ -1,60 +1,48 @@
 # Hi there, I'm Humza Warsi 👋
 
-### 🚀 IT Student | Software & QA Enthusiast | Data Analytics | Exploring AI
+### 🚀 IT Student | Software Development | QA & Testing | Data Analytics | AI Enthusiast
 
-I'm an **Information Technology student from Mumbai, India** building practical, portfolio-focused projects across **Software Development, Quality Assurance, Data Analytics, Databases, Business Intelligence, and emerging AI technologies**.
+I'm an **Information Technology student from Mumbai, India** with hands-on project experience across **software development, quality assurance, databases, data analytics and business intelligence**.
 
-I enjoy turning ideas into working projects, testing how software behaves, analyzing data for insights, and continuously learning the technologies used in modern software teams.
+I enjoy building practical applications, understanding how systems work, testing software thoroughly, and using data to turn information into useful insights. I'm also highly interested in the rapidly evolving world of **Artificial Intelligence and modern software technologies**.
 
-🎯 **Current goal:** Secure an internship where I can contribute, learn from real-world development teams, and grow into a versatile technology professional.
+🎯 **Currently seeking internship opportunities** where I can contribute, gain real-world experience, and grow alongside an experienced technology team.
 
 ---
 
-## 🧠 What I'm Exploring
+## 🧠 Areas of Interest
 
-- 🤖 **Artificial Intelligence & Generative AI**
-- 💬 **AI tools, prompting & practical AI workflows**
-- 🐍 Python automation and data analysis
-- 🧪 Software Quality Assurance and testing
-- 📊 Data Analytics and Business Intelligence
-- 🌐 Modern web technologies
-- 🔐 Network & Information Security fundamentals
+🤖 **Artificial Intelligence & Generative AI** · 💻 **Software Development** · 🧪 **Quality Assurance** · 📊 **Data Analytics & Business Intelligence** · 🔐 **Cybersecurity & Network Security**
 
 ---
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming & Development
-`Python` • `Java` • `JavaScript` • `HTML5` • `CSS3`
+**Python** · **Java** · **JavaScript** · **HTML5** · **CSS3**
 
 ### 🗄️ Data & Databases
-`SQL` • `SQLite` • `pandas` • `Data Analysis` • `Power BI` • `DAX` • `Power Query`
+**SQL** · **SQLite** · **pandas** · **Data Analysis** · **Data Cleaning** · **Data Transformation**
 
-### 🧪 Software Testing
-`Manual Testing` • `Test Case Design` • `Defect Reporting` • `API Testing` • `Postman` • `Regression Testing` • `Functional Testing`
+### 📊 Business Intelligence & Analytics
+**Power BI** · **Power Query** · **DAX** · **Data Visualization** · **Dashboard Development** · **KPI Analysis**
 
-### 📊 Business Intelligence
-`Power BI Desktop` • `Data Cleaning` • `Data Transformation` • `KPI Design` • `Dashboard Development` • `Data Visualization`
+### 🧪 Software Quality Assurance
+**Manual Testing** · **Functional Testing** · **Regression Testing** · **Negative Testing** · **Test Case Design** · **Defect Reporting** · **API Testing** · **Postman**
 
-### 🛠️ Developer Tools
-`Git` • `GitHub` • `VS Code` • `Power BI Desktop` • `Supabase`
+### 🛠️ Tools & Platforms
+**Git** · **GitHub** · **VS Code** · **Power BI Desktop** · **Supabase**
+
+### 🤖 AI & Modern Technology
+**Generative AI** · **AI Tools & Workflows** · **Prompt Engineering Fundamentals** · **AI-Assisted Development**
 
 ---
 
-## 🌱 Currently Learning & Building
+## 🌱 Expanding My Technology Stack
 
-I'm actively expanding my skill set toward technologies commonly used in modern software and data teams:
+I continuously invest time in learning technologies used across modern software teams, including:
 
-- 🤖 **AI & Generative AI fundamentals**
-- 🔌 **REST APIs and API integration**
-- 🐳 **Docker and containerization fundamentals**
-- ☁️ **Cloud computing fundamentals**
-- 🧪 **Test automation concepts**
-- 📈 **Advanced SQL and data analysis**
-- 🌐 **Modern web development**
-- 🔐 **Cybersecurity and network security concepts**
-
-> I believe the best skill is the ability to **learn quickly, build consistently, and adapt to new technology**.
+**REST APIs** · **Docker & Containerization** · **Cloud Computing** · **Test Automation** · **Advanced SQL** · **Modern Web Development** · **AI/ML Fundamentals** · **Cybersecurity**
 
 ---
 
@@ -62,14 +50,17 @@ I'm actively expanding my skill set toward technologies commonly used in modern 
 
 ## 📊 ATELIER | Retail Sales & Profit Analytics
 
-An end-to-end **Business Intelligence and Data Analytics project** using **Power BI, Power Query, DAX, Python, pandas and SQL**.
+**End-to-End Business Intelligence & Data Analytics Project**
 
-**Highlights:**
+Built an interactive analytics solution using **Power BI, Power Query, DAX, Python, pandas and SQL** to transform retail transaction data into meaningful business insights.
+
+**Highlights**
 - Interactive two-page Power BI dashboard
-- Sales, orders, profit and regional analysis
-- Data validation using Python
+- Sales, orders, product and regional analysis
+- KPI design and business reporting
+- Python-based data validation
 - SQL analytical queries
-- KPI design and business insights
+- Structured project documentation
 
 🔗 **[View Repository →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)**
 
@@ -77,14 +68,16 @@ An end-to-end **Business Intelligence and Data Analytics project** using **Power
 
 ## 🧪 ATELIER | QA Testing Portfolio
 
-A structured **Software Quality Assurance portfolio** demonstrating practical testing workflows.
+**Software Quality Assurance & Testing Project**
 
-**Highlights:**
-- Manual test cases and checklists
+A structured QA portfolio demonstrating practical software testing workflows and documentation.
+
+**Highlights**
+- Manual test cases and test scenarios
 - Functional and negative testing
 - Defect identification and reporting
-- API testing concepts
-- Structured QA documentation
+- API testing with Postman
+- Structured testing documentation
 
 🔗 **[View Repository →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)**
 
@@ -92,13 +85,15 @@ A structured **Software Quality Assurance portfolio** demonstrating practical te
 
 ## 🧑‍🎓 ATELIER | Student Management System
 
-A **Python and SQLite application** demonstrating core software development concepts.
+**Python & SQLite Application**
 
-**Highlights:**
+A database-driven application demonstrating core software development concepts.
+
+**Highlights**
 - CRUD operations
-- Database integration
-- Application logic
-- Testing and validation
+- SQLite database integration
+- Application logic and validation
+- Structured testing
 
 🔗 **[View Repository →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)**
 
@@ -106,13 +101,15 @@ A **Python and SQLite application** demonstrating core software development conc
 
 ## 💰 ATELIER | Expense Tracker
 
-A Python-based application focused on structured data handling and application functionality.
+**Python Application**
 
-**Highlights:**
+A practical application focused on organized data handling and core application functionality.
+
+**Highlights**
 - Expense tracking workflows
-- Data handling
+- Data management
 - Application logic
-- Testing
+- Testing and validation
 
 🔗 **[View Repository →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)**
 
@@ -120,34 +117,36 @@ A Python-based application focused on structured data handling and application f
 
 ## ✨ ATELIER | Personal Life Management System
 
-A modern web application project exploring frontend development and backend services.
+**Modern Web Application**
 
-**Tech:** `React` • `Vite` • `Supabase`
+A project exploring modern frontend development and backend services.
+
+**Tech:** **React** · **Vite** · **Supabase**
 
 🔗 **[View Repository →](https://github.com/HI4100/FINALE-PROJECT)**
 
 ---
 
-## 🎯 Career Interests
+## 🎯 Open To Opportunities In
 
-I'm currently open to learning and internship opportunities in:
-
-> 💻 **Software Development** · 🐍 **Python Development** · 🧪 **QA & Software Testing** · 📊 **Data Analytics** · 📈 **Business Intelligence** · 🤖 **AI / Automation** · 🗄️ **SQL & Databases** · 🔐 **IT & Cybersecurity**
+💻 **Software Development Intern**  
+🐍 **Python Developer Intern**  
+🧪 **QA / Software Testing Intern**  
+📊 **Data Analyst / Business Intelligence Intern**  
+🤖 **AI & Automation Intern**  
+🗄️ **SQL / Database Intern**  
+🔐 **IT / Cybersecurity Intern**
 
 ---
 
-## 📚 My Learning Mindset
+## 💡 What I Bring
 
-Technology changes quickly—and I don't expect to know everything.
-
-What I bring is:
-
-- ⚡ Curiosity and willingness to learn
-- 🧩 Problem-solving mindset
-- 🛠️ Hands-on project experience
-- 🔍 Attention to detail through testing
-- 📈 Ability to learn new tools and technologies
-- 🤝 Openness to feedback and teamwork
+⚡ **Strong willingness to learn and adapt**  
+🛠️ **Hands-on project experience across multiple technology areas**  
+🔍 **Attention to detail and a testing mindset**  
+🧩 **Problem-solving approach**  
+📈 **Continuous learning mindset**  
+🤝 **Openness to feedback and teamwork**
 
 ---
 
@@ -158,6 +157,6 @@ What I bring is:
 
 ---
 
-### ⭐ Building. Learning. Improving. One project at a time.
+### 🚀 Building practical projects. Learning continuously. Ready for the next challenge.
 
-*Feel free to explore my repositories and follow my journey as I continue building and learning in technology.* 🚀
+*Feel free to explore my repositories and connect with me.*
