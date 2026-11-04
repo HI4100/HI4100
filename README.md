@@ -1,121 +1,108 @@
 # ✨ Hi, I'm Humza Warsi 👋
 
-### 📊 IT Student | Data Analytics & Business Intelligence | QA & Software Testing | AI-Assisted Workflows
+### 📊 Aspiring Data Analyst & BI Professional | IT Student | SQL • Power BI • Excel • Python
 
-I'm an **Information Technology student from Mumbai, India**, building practical projects in software quality assurance, Python applications, SQL, data analysis and business intelligence.
+I’m an **Information Technology student from Mumbai, India** building practical, portfolio-ready projects around **data analytics, business intelligence, SQL, Power BI, Python, databases, software testing and AI-assisted workflows**.
 
-I'm focused on building my career in **Data Analytics & Business Intelligence**, using data to find patterns, build clear dashboards and support better decisions—while strengthening my foundations in **Excel, Power BI, SQL, Python, QA and AI-assisted workflows**.
-
-🎯 **Seeking internship opportunities** where I can contribute carefully, learn from experienced teams and help deliver reliable software.
-
----
-
-## 🎯 Open to Opportunities
-
-### 🥇 📊 Data Analyst / Business Intelligence Intern — Primary Focus ✨
-
-Also open to opportunities in:
-
-- 🧪 **QA / Software Testing Intern**
-- 🐍 **Python / Automation Intern**
-- 💼 **Business / Data Operations Intern**
-- 🤖 **AI-Assisted Data & Digital Workflow Roles**
-
-I enjoy turning raw information into **clear insights, useful dashboards and well-documented decisions**. My combination of **analytics, attention to detail, testing discipline, documentation and AI-assisted workflows** helps me approach problems from more than one angle.
+My goal is simple: **turn data into clear insights and useful decisions**—then prove those skills through real projects, not just a list of tools.
 
 > ✨ **Maybe fate brought you here for your sparkling future. Let's connect and build something meaningful.**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🎯 Open to Opportunities
 
-### 🧪 Quality Assurance & Software Testing
-**Manual Testing** · **Functional Testing** · **Regression Testing** · **Exploratory Testing** · **Negative Testing** · **Test Case Design** · **Test Scenarios** · **Bug / Defect Reporting** · **Test Execution & Documentation** · **API Testing Fundamentals** · **Postman**
+### 🥇 📊 **Data Analyst / Business Intelligence Intern — Primary Focus**
 
-### 🐍 Programming & Software Fundamentals
-**Python** · **Java** · **C** · **C++** · **JavaScript** · **HTML5** · **CSS3** · **Object-Oriented Programming Fundamentals** · **Problem Solving**
+Also open to:
+- 📈 **Business / Data Analytics Intern**
+- 🧪 **QA / Software Testing Intern**
+- 🐍 **Python / Automation Intern**
+- 💻 **IT / Technical Support Intern**
 
-### 🗄️ Databases & Querying
-**SQL** · **DBMS** · **SQLite** · **CRUD Operations** · **Relational Database Fundamentals** · **Data Validation**
+I bring together **analytical thinking, attention to detail, structured testing, clear documentation and modern AI-assisted workflows**—a combination I’m continuously strengthening through practical work.
+
+---
+
+# 🛠️ Skills & Tools
 
 ### 📊 Data Analytics & Business Intelligence
-**Microsoft Excel** · **Power BI** · **Power Query** · **DAX** · **Data Cleaning** · **Data Preparation** · **Data Analysis** · **Data Visualization** · **Dashboard Design** · **KPI Reporting** · **Basic Statistics**
+**Microsoft Excel** • **Power BI** • **Power Query** • **DAX** • **Data Cleaning** • **Data Preparation** • **Data Analysis** • **Data Visualization** • **Dashboard Design** • **KPI Analysis & Reporting** • **Basic Statistics**
+
+### 🗄️ Databases & Data
+**SQL** • **DBMS** • **SQLite** • **CRUD Operations** • **Relational Database Fundamentals** • **Data Validation**
+
+### 🐍 Programming & Development
+**Python** • **Java** • **C** • **C++** • **JavaScript** • **HTML5** • **CSS3** • **OOP Fundamentals** • **Problem Solving**
+
+### 🧪 QA & Software Testing
+**Manual Testing** • **Functional Testing** • **Regression Testing** • **Exploratory Testing** • **Negative Testing** • **Test Case Design** • **Test Scenarios** • **Bug / Defect Reporting** • **Test Execution** • **Test Documentation** • **API Testing Fundamentals** • **Postman**
 
 ### 🪟 Microsoft 365 & Productivity
-**Microsoft Word** · **Microsoft Excel** · **Microsoft PowerPoint** · **Microsoft Outlook** · **OneDrive** · **Microsoft Teams**
+**Microsoft Word** • **Microsoft Excel** • **Microsoft PowerPoint** • **Microsoft Outlook** • **OneDrive** • **Microsoft Teams**
 
 ### 🛠️ Developer & Collaboration Tools
-**Git** · **GitHub** · **VS Code** · **GitHub Actions** · **Power BI Desktop** · **Supabase**
+**Git** • **GitHub** • **VS Code** • **GitHub Actions** • **Power BI Desktop** • **Supabase**
 
 ### 🤖 AI, Research & Digital Work
-**Generative AI Tools** · **AI-Assisted Workflows** · **Prompt Writing & Prompt Engineering** · **AI-Assisted Research** · **Content Writing** · **Technical Documentation**
+**Generative AI Tools** • **AI-Assisted Workflows** • **Prompt Engineering** • **AI-Assisted Development** • **AI-Assisted Research** • **Content Writing** • **Technical Documentation**
 
 ### ✨ Professional Strengths
-**Attention to Detail** · **Analytical Thinking** · **Logical Reasoning** · **Problem Solving** · **Research** · **Clear Documentation** · **Written Communication** · **Adaptability** · **Time Management** · **Learning Agility** · **Team Collaboration**
+**Attention to Detail** • **Analytical Thinking** • **Logical Reasoning** • **Problem Solving** • **Research** • **Documentation** • **Written Communication** • **Adaptability** • **Time Management** • **Learning Agility** • **Team Collaboration**
 
 ---
 
-## 🌟 Featured Projects
+# 🌟 Featured Work — ATELIER 41
 
-### 📊 ATELIER 41 | Retail Sales & Profit Analytics
-A two-page Power BI dashboard supported by Python analysis and SQL queries, exploring synthetic retail sales, regional performance, products, categories, payments and illustrative profit.
+## 📊 Retail Sales & Profit Analytics
+**Power BI • Power Query • DAX • SQL • Python • pandas**
 
-**Demonstrates:** Power BI · Power Query · DAX · Excel · Python · pandas · SQL · Data visualization · KPI analysis
+Interactive analytics project exploring retail sales, products, regions, payment methods, KPIs and illustrative profit through a two-page Power BI dashboard.
 
-🔗 [Explore Retail Sales Analytics →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)
+🔗 [Explore the project →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)
 
-### 🧪 ATELIER 41 | QA Testing Portfolio
+## 🧪 QA Testing Portfolio
+**Manual Testing • Test Cases • Bug Reporting • Exploratory Testing • API Testing**
 
-A practical QA portfolio built around manual testing of a public demo application, structured test cases, execution records, defect documentation and API-testing practice materials.
+Hands-on testing portfolio covering structured test execution, defect documentation, exploratory testing and Postman practice.
 
-**Demonstrates:** Test design · Functional and exploratory testing · Defect reporting · Test documentation · Postman collection preparation
+🔗 [Explore the project →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)
 
-🔗 [Explore the QA portfolio →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)
+## 🧑‍🎓 Student Management System
+**Python • SQLite • SQL • CRUD • Validation • Unit Testing**
 
-### 🐍 ATELIER 41 | Expense Tracker
-A Python command-line application for recording expenses, managing category budgets, searching transactions and exporting data, with automated unit tests.
+A practical application for managing student records with persistent storage, validation and automated tests.
 
-**Demonstrates:** Python · CSV/JSON · Validation · Application logic · Unit testing
+🔗 [Explore the project →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)
 
-🔗 [Explore the Expense Tracker →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)
+## 💰 Expense Tracker
+**Python • CSV • JSON • Validation • Unit Testing**
 
-### 🧑‍🎓 ATELIER 41 | Student Management System
-A Python and SQLite application for maintaining student records, with CRUD operations, validation, SQL queries and automated tests.
+A Python application for tracking expenses, managing budgets, searching records and exporting data.
 
-**Demonstrates:** Python · SQLite · SQL · Database design fundamentals · Unit testing
-
-🔗 [Explore the Student Management System →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)
-
-### 📊 ATELIER 41 | Retail Sales & Profit Analytics
-A two-page Power BI dashboard supported by Python analysis and SQL queries, exploring synthetic retail sales, regional performance, products, categories, payments and illustrative profit.
-
-**Demonstrates:** Power BI · Power Query · DAX · Python · pandas · SQL · Data visualization
-
-🔗 [Explore Retail Sales Analytics →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)
+🔗 [Explore the project →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)
 
 ---
 
-## 💎 The ATELIER 41 Standard
+# 💎 ATELIER 41
 
-> **Build it clearly. Test it carefully. Document it honestly. Improve it continuously.**
+> **Build it clearly. Analyze it carefully. Test it honestly. Improve it continuously.**
 
-ATELIER 41 is the consistent identity across my portfolio projects. Each project is an opportunity to practise practical skills, explain the work clearly and keep improving the result.
+**Humza Warsi ~ Author**
+
+ATELIER 41 is the signature connecting my practical portfolio projects: a consistent focus on **clear work, honest documentation, careful analysis and continuous improvement**.
 
 ---
 
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 📧 **Email:** humzawarsi41@gmail.com  
 📱 **Phone:** +91 99670 30625  
 💼 **LinkedIn:** [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)  
-🐙 **GitHub:** [@HI4100](https://github.com/HI4100)
-
+🐙 **GitHub:** [@HI4100](https://github.com/HI4100)  
 📍 **Mumbai, Maharashtra, India**
-
-> ### ✨ “Maybe fate brought you here for your sparkling future.”
->
-> **Let's connect, learn, build and turn ideas into something worth showing. 🚀**
 
 ---
 
-### ✨ ATELIER 41 — Build with curiosity. Analyze with clarity. Improve continuously.
+### ✨ **Maybe fate brought you here for your sparkling future.**
+### **Let's connect, learn, analyze and build something worth showing. 🚀**
