@@ -105,10 +105,12 @@ ATELIER 41 is the consistent identity across my portfolio projects. Each project
 
 ## 🤝 Let's Connect
 
+📧 **Email:** humzawarsi41@gmail.com  
+📱 **Phone:** +91 99670 30625  
 💼 **LinkedIn:** [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)  
 🐙 **GitHub:** [@HI4100](https://github.com/HI4100)
 
-📍 **Mumbai, India**
+📍 **Mumbai, Maharashtra, India**
 
 > ### ✨ “Maybe fate brought you here for your sparkling future.”
 >
