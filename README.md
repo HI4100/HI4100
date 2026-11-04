@@ -1,176 +1,99 @@
 # ✨ Hi, I'm Humza Warsi 👋
 
-### 🚀 IT Student | Software & Data | QA | AI Enthusiast
+### 🚀 IT Student | QA & Software Testing | Data & Analytics | AI-Assisted Workflows
 
-Welcome to my GitHub! I'm an **Information Technology student from Mumbai, India**, building practical projects and developing skills across **software development, data analytics, quality assurance, databases and AI-powered workflows**.
+I'm an **Information Technology student from Mumbai, India** building practical projects across **software testing, Python, SQL, data analytics, databases and AI-powered workflows**.
 
-🎯 **Currently seeking internship opportunities** where I can learn from real-world teams, contribute meaningfully, and grow into a strong technology professional.
+🎯 My current career focus is **QA / Software Testing**, while continuing to strengthen **Python, automation, SQL and data skills** for long-term growth.
 
 ---
 
-## ✨ What I'm Interested In
+## 🎯 Open to Opportunities
 
-🤖 AI & Generative AI • 💻 Software Development • 📊 Data & Analytics • 🧪 Quality Assurance • 🗄️ Databases • 🔐 Cybersecurity
+### 🧪 **QA / Software Testing Intern** — Primary Focus ✨
+Also open to:
+- 🐍 **Python / Automation Intern**
+- 📊 **Data Analyst / BI Intern**
+- 💻 **IT / Software Support Intern**
+
+I enjoy structured problem-solving, testing real workflows, finding edge cases, documenting clearly and improving the quality of a product.
 
 ---
 
 # 🛠️ Skills & Tools
 
-### 💻 Programming & Development
-**Python** • **Java** • **JavaScript** • **HTML5** • **CSS3** • **OOP Fundamentals**
+### 🧪 QA & Testing
+**Manual Testing** • **Functional Testing** • **Regression Testing** • **Negative Testing** • **Exploratory Testing** • **Test Case Design** • **Bug Reporting** • **API Testing** • **Postman**
 
-### 🗄️ Databases & Data
-**SQL** • **DBMS** • **SQLite** • **Data Cleaning** • **Data Analysis** • **Data Transformation**
+### 🐍 Programming & Development
+**Python** • **Java** • **SQL** • **DBMS** • **SQLite** • **OOP Fundamentals** • **HTML/CSS/JavaScript Fundamentals**
 
-### 📊 Analytics & Business Intelligence
-**Microsoft Excel** • **Power BI** • **Power Query** • **DAX** • **Data Visualization** • **Dashboard Development** • **KPI Analysis**
-
-### 🧪 Software Testing & QA
-**Manual Testing** • **Functional Testing** • **Regression Testing** • **Negative Testing** • **Test Case Design** • **Bug Reporting** • **API Testing** • **Postman**
+### 📊 Data & Analytics
+**Microsoft Excel** • **Power BI** • **Power Query** • **DAX** • **Data Cleaning** • **Data Analysis** • **Data Visualization** • **KPI Analysis**
 
 ### 🪟 Microsoft & Productivity Tools
-**Microsoft Word** • **Microsoft Excel** • **Microsoft PowerPoint** • **Microsoft Outlook** • **OneDrive** • **Microsoft Teams**
+**Microsoft Word** • **Excel** • **PowerPoint** • **Outlook** • **OneDrive** • **Microsoft Teams**
 
 ### 🛠️ Developer Tools
-**Git** • **GitHub** • **VS Code** • **Power BI Desktop**
+**Git** • **GitHub** • **VS Code** • **Power BI Desktop** • **GitHub Actions**
 
 ### 🤖 AI & Digital Skills
-**Generative AI** • **AI Tools & Workflows** • **Prompt Engineering** • **AI-Assisted Development** • **Content Writing**
+**Generative AI** • **AI Tools & Workflows** • **Prompt Engineering** • **AI-Assisted Development** • **AI Research Support** • **Content Writing**
 
-### 🌟 Professional Strengths
-**Attention to Detail** ✨ • **Problem Solving** • **Research** • **Communication** • **Adaptability** • **Continuous Learning**
+### ✨ Professional Strengths
+**Attention to Detail** • **Problem Solving** • **Research** • **Documentation** • **Communication** • **Analytical Thinking** • **Adaptability** • **Continuous Learning**
 
 ---
 
-# 🌱 Expanding My Technology Stack
+# 🌱 Growing Next
 
-Technologies I'm actively working toward as I continue my learning journey:
+I'm actively strengthening:
 
-**NumPy** • **pandas** • **Statistics for Data Analysis** • **Python Automation** • **REST APIs** • **AI APIs** • **Docker & Containerization** • **Cloud Computing Fundamentals** • **Test Automation** • **Data Structures & Algorithms** • **C Programming** • **C++** • **Advanced Java & OOP** • **AI/ML Fundamentals** • **Cybersecurity Fundamentals**
+**Python Automation** • **Test Automation** • **REST APIs** • **NumPy & pandas** • **Statistics** • **Cloud Fundamentals** • **Docker** • **AI/ML Fundamentals** • **Cybersecurity Fundamentals** • **Data Structures & Algorithms**
 
-✨ Always learning. Always building.
+✨ The goal is simple: **learn properly, then prove it through real projects.**
 
 ---
 
 # 🌟 Featured Projects
 
 ## 📊 ATELIER | Retail Sales & Profit Analytics
-**End-to-End Data Analytics & Business Intelligence Project**
-
-Built an interactive analytics solution that transforms retail data into meaningful business insights.
-
-✨ **Highlights**
-- Interactive Power BI dashboards
-- Sales, profit, product and regional analysis
-- KPI design and business reporting
-- Power Query transformations and DAX measures
-- Python and SQL-based analysis
-- Structured project documentation
+Interactive **Power BI + Python + SQL** analytics project exploring sales, profit, products, regions, KPIs and trends.
 
 🔗 **[Explore the project →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)**
 
----
-
 ## 🧪 ATELIER | QA Testing Portfolio
-**Software Quality Assurance Project**
-
-A structured portfolio demonstrating practical testing workflows.
-
-✨ **Highlights**
-- Manual test cases and scenarios
-- Functional and negative testing
-- Defect reporting
-- API testing with Postman
-- Clear QA documentation
+Hands-on portfolio covering **manual testing, functional testing, exploratory testing, bug reporting and API testing**.
 
 🔗 **[Explore the project →](https://github.com/HI4100/Atelier-QA41-Testing-Portfolio)**
 
----
-
 ## 🧑‍🎓 ATELIER | Student Management System
-**Application Development Project**
-
-A database-focused project demonstrating application logic and data management.
-
-✨ **Highlights**
-- CRUD operations
-- Database integration
-- Input validation
-- Structured application workflows
+Python + SQLite application demonstrating **CRUD operations, validation, SQL and automated testing**.
 
 🔗 **[Explore the project →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)**
 
----
-
 ## 💰 ATELIER | Expense Tracker
-**Practical Application Project**
-
-An application focused on organized data handling and useful real-world workflows.
-
-✨ **Highlights**
-- Expense tracking
-- Data management
-- Application logic
-- Testing and validation
+Python application for **expense management, budgets, search, validation and automated tests**.
 
 🔗 **[Explore the project →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)**
 
 ---
 
-## 🌐 ATELIER | Personal Life Management System
-**Modern Web Application**
+# 💎 The ATELIER 41 Signature
 
-A project exploring modern frontend development and backend services.
+Every **ATELIER 41** project follows the same personal standard:
 
-**Tech:** React • Vite • Supabase
+> **✨ Build it clearly. Test it carefully. Document it honestly. Improve it continuously.**
 
-🔗 **[Explore the project →](https://github.com/HI4100/FINALE-PROJECT)**
-
----
-
-# 🎯 Open to Internship Opportunities
-
-I'm especially interested in opportunities with strong long-term career growth and valuable real-world experience:
-
-🚀 **Software Development Intern**  
-🤖 **AI / Automation Intern**  
-📊 **Data Analyst / Business Intelligence Intern**  
-🧪 **QA / Software Testing Intern**  
-🐍 **Python Developer Intern**  
-🗄️ **SQL / Database Intern**  
-🔐 **Cybersecurity / IT Intern**
+The **ATELIER** name and **41** identifier form the signature across my portfolio — a consistent way to connect projects built as part of my learning journey and practical technology development.
 
 ---
 
-# 💎 What I Bring
-
-✨ Hands-on project experience  
-🔍 Strong attention to detail  
-🧩 Problem-solving mindset  
-🤖 Comfortable working with modern AI tools  
-📝 Content writing and clear documentation skills  
-📊 Analytical thinking  
-🧪 Quality-focused approach  
-🚀 Fast learner with genuine curiosity  
-🤝 Open to feedback and teamwork  
-
----
-
-## 📚 My Learning Roadmap
-
-I believe in learning skills in a structured order: strengthening **computer fundamentals, Microsoft tools, programming, databases, SQL, Git/GitHub, testing and APIs first**, then expanding deeper into **automation, data analytics, web development, cloud technologies, AI and advanced computer science concepts**.
-
-🎯 **The goal isn't to collect skill names — it's to build real understanding and prove it through projects.**
-
----
-
-## 🤝 Let's Connect
+# 🤝 Let's Connect
 
 💼 **LinkedIn:** [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)  
 🐙 **GitHub:** [@HI4100](https://github.com/HI4100)
 
 ---
 
-### ✨ Building practical projects • Learning continuously • Ready for the next challenge 🚀
-
-*Feel free to explore my repositories and connect with me!*
+### ✨ Build. Test. Learn. Improve. — ATELIER 41 🚀
