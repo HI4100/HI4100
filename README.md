@@ -1,21 +1,29 @@
 # ✨ Hi, I'm Humza Warsi 👋
 
-### 🧪 IT Student | QA & Software Testing | Python & Automation | Data & BI
+### 📊 IT Student | Data Analytics & Business Intelligence | QA & Software Testing | AI-Assisted Workflows
 
 I'm an **Information Technology student from Mumbai, India**, building practical projects in software quality assurance, Python applications, SQL, data analysis and business intelligence.
 
-I'm focused on starting my career in **QA / Software Testing**, strengthening my Python and automation skills, and building a solid technical foundation for long-term growth in technology.
+I'm focused on building my career in **Data Analytics & Business Intelligence**, using data to find patterns, build clear dashboards and support better decisions—while strengthening my foundations in **Excel, Power BI, SQL, Python, QA and AI-assisted workflows**.
 
 🎯 **Seeking internship opportunities** where I can contribute carefully, learn from experienced teams and help deliver reliable software.
 
 ---
 
-## 🎯 Career Focus
+## 🎯 Open to Opportunities
 
-**Primary:** 🧪 QA / Software Testing Intern  
-**Also interested in:** 🐍 Python / Automation Intern · 📊 Data Analyst / BI Intern · 💻 IT Support / Technical Intern
+### 🥇 📊 Data Analyst / Business Intelligence Intern — Primary Focus ✨
 
-My strongest fit today is an entry-level QA role, where my testing portfolio, attention to detail, documentation and structured problem-solving are directly relevant. Python automation and data/BI are complementary skills I am developing through projects.
+Also open to opportunities in:
+
+- 🧪 **QA / Software Testing Intern**
+- 🐍 **Python / Automation Intern**
+- 💼 **Business / Data Operations Intern**
+- 🤖 **AI-Assisted Data & Digital Workflow Roles**
+
+I enjoy turning raw information into **clear insights, useful dashboards and well-documented decisions**. My combination of **analytics, attention to detail, testing discipline, documentation and AI-assisted workflows** helps me approach problems from more than one angle.
+
+> ✨ **Maybe fate brought you here for your sparkling future. Let's connect and build something meaningful.**
 
 ---
 
@@ -49,7 +57,15 @@ My strongest fit today is an entry-level QA role, where my testing portfolio, at
 
 ## 🌟 Featured Projects
 
+### 📊 ATELIER 41 | Retail Sales & Profit Analytics
+A two-page Power BI dashboard supported by Python analysis and SQL queries, exploring synthetic retail sales, regional performance, products, categories, payments and illustrative profit.
+
+**Demonstrates:** Power BI · Power Query · DAX · Excel · Python · pandas · SQL · Data visualization · KPI analysis
+
+🔗 [Explore Retail Sales Analytics →](https://github.com/HI4100/Atelier-RS41-Sales-Analytics)
+
 ### 🧪 ATELIER 41 | QA Testing Portfolio
+
 A practical QA portfolio built around manual testing of a public demo application, structured test cases, execution records, defect documentation and API-testing practice materials.
 
 **Demonstrates:** Test design · Functional and exploratory testing · Defect reporting · Test documentation · Postman collection preparation
@@ -87,11 +103,17 @@ ATELIER 41 is the consistent identity across my portfolio projects. Each project
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-- **LinkedIn:** [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)
-- **GitHub:** [@HI4100](https://github.com/HI4100)
+💼 **LinkedIn:** [Humza Warsi](https://www.linkedin.com/in/humza-warsi-910aa941b/)  
+🐙 **GitHub:** [@HI4100](https://github.com/HI4100)
+
+📍 **Mumbai, India**
+
+> ### ✨ “Maybe fate brought you here for your sparkling future.”
+>
+> **Let's connect, learn, build and turn ideas into something worth showing. 🚀**
 
 ---
 
-### ✨ Reliable work. Thoughtful testing. Continuous improvement. 🚀
+### ✨ ATELIER 41 — Build with curiosity. Analyze with clarity. Improve continuously.
