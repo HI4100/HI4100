@@ -73,14 +73,14 @@ Hands-on testing portfolio covering structured test execution, defect documentat
 
 A practical application for managing student records with persistent storage, validation and automated tests.
 
-🔗 [Explore the project →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System-)
+🔗 [Explore the project →](https://github.com/HI4100/Atelier-41SMS-Student-Management-System)
 
 ## 💰 Expense Tracker
 **Python • CSV • JSON • Validation • Unit Testing**
 
 A Python application for tracking expenses, managing budgets, searching records and exporting data.
 
-🔗 [Explore the project →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker-)
+🔗 [Explore the project →](https://github.com/HI4100/Atelier-ET41-Expense-Tracker)
 
 ---
 
